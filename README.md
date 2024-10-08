@@ -11,7 +11,7 @@ Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introdu
 - Add more components (Button, Features table, etc)
 - Remove extra keys from `/api/detail/:id` response
 - Add CI config to run lint and tests
-- Add SEO and Accessibility
+- Comply SEO and Accessibility
 
 ## Setup
 
