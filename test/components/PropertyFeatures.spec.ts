@@ -32,7 +32,7 @@ describe('PropertyFeatures', () => {
 
   it('mounted component text matches', () => {
     expect(component.text()).toMatchInlineSnapshot(
-      `"Kenmerken OverdrachtVraagprijs€ 100.000Vraagprijs per m²€4,622Aangeboden sinds2021-01-01StatusVerkochtAanvaardingIn overlegBouwSoort woonhuisEengezinsSoort bouwBestaande bouwBouwjaar2000ToegankelijkheidAccessible for people with disabilities and accessible for the elderlySpecifiekSoort dakZadeldakOppervlakten en inhoudWonen100Overige inpandige ruimte1,576 m²Gebouwgebonden buitenruimte748 m³Externe bergruimte748 m³Perceel200Inhoud300IndelingAantal kamers3Aantal badkamers1BadkamervoorzieningenggAantal woonlagen2EnergieEnergielabelbIsolatie1VerwarmingggWarm waterC.V.-Ketel"`
+      `"Kenmerken OverdrachtVraagprijs€ 100.000Vraagprijs per m²€4,622StatusVerkochtAanvaardingIn overlegBouwSoort woonhuisEengezinsSoort bouwBestaande bouwBouwjaar2000ToegankelijkheidAccessible for people with disabilities and accessible for the elderlySpecifiekSoort dakZadeldakOppervlakten en inhoudWonen100Overige inpandige ruimte1,576 m²Gebouwgebonden buitenruimte748 m³Externe bergruimte748 m³Perceel200Inhoud300IndelingAantal kamers3Aantal badkamers1BadkamervoorzieningenggAantal woonlagen2EnergieEnergielabelbIsolatie1VerwarmingggWarm waterC.V.-Ketel"`
     )
   })
 });

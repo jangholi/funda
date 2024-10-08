@@ -22,7 +22,7 @@ describe('PropertyInfo', () => {
 
   it('mounted component text matches', () => {
     expect(component.text()).toBe(
-      `Teststraat 1 100 m² wonen   m² plot  3 Kamers  2 Slaapkamers € 100.000`
+      `Teststraat 1100 m² wonen m² plot3 Kamers2 Slaapkamers€ 100.000`
     )
   })
 });
